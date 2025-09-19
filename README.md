@@ -1,2 +1,0 @@
-# sedona
-HtmlAcademy educational project
