@@ -1,7 +1,7 @@
 # Личный проект «{{projectTitle}}»
 
 * Студент: [Volkov Andrey]({{userProfile}}).
-* Наставник: `Неизвестно`.
+* Ссылка на сайт: [Sedona](https://volkofandrey.github.io/sedona/).
 
 ---
 
